@@ -1,0 +1,4 @@
+Nanang Wahyudi;S1;Teknik Informatika;
+Samsul Aimah;S1;Teknik Informatika;
+Ilham Faturohman;S1;Teknik Informatika;
+Sahrul Rosadi;S1;Teknik Informatika;

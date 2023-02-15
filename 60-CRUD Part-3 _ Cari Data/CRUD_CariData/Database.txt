@@ -1,0 +1,4 @@
+Nanang Wahyudi;S1;Teknik Informatika;
+Samsul Aimah;D3;Manajemen Informatika;
+Ilham Faturohman;S1;Sistem Informasi;
+Sahrul Rosadi;S1;Ilmu Komputer;
